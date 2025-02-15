@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-community
+chromadb
+gradio
+openai==0.28.0
+streamlit
